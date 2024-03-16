@@ -2,7 +2,7 @@
 // @name         Auto play boost WOV by xQtFT 
 // @namespace    https://www.wolvesville.com/
 // @version      1.0
-// @description  Script help click on play again! Don't use it for being AFK !
+// @description  Script is oly support u when u play! Don't use it for being AFK ! 
 // @homepage     https://github.com/truongcongquyinfo
 // @author       https://www.facebook.com/profile.php?id=100004195688381
 // @match        https://www.wolvesville.com/
