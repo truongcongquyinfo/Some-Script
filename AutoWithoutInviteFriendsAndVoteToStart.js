@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Auto play boost WOV by xQtFT 
+// @name         Auto play boost WOV by xQtFT without invite friend + vote to start
 // @namespace    https://www.wolvesville.com/
 // @version      1.0
 // @description  Script is oly support u when u play! Don't use it for being AFK ! 
