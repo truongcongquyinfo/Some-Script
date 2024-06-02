@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BOT FOR CUSTOM (FOR RENTING)
 // @namespace    https://www.wolvesville.com/
-// @version      1.1
+// @version      1.2
 // @description  Script is developed to do almost work when u play custom !
 // @homepage     https://github.com/truongcongquyinfo
 // @author       https://www.facebook.com/profile.php?id=100004195688381
