@@ -1,3 +1,4 @@
+// ==UserScript==
 // @name         BOT FOR CUSTOM (FOR RENTING)
 // @namespace    https://www.wolvesville.com/
 // @version      1.3
