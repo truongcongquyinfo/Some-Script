@@ -13,12 +13,14 @@ Chào mừng bạn đến với kho lưu trữ của các script hữu ích! Tro
 
 ## Cách Cài Đặt
 
-1. **Cài đặt môi trường Python (nếu cần)**:
+1. **Tampermonkey**:
    - Cài đặt tiện ích tampermonkey
    - Chọn 1 script bạn muốn cài
    - bấm vào Raw -> install
-
-2. **Chạy các Script**:
+2. **Chạy các script nhỏ**:
+   - Copy full script
+   - Vào [Wolvesville](https://www.wolvesville.com/), xong F12, dán code vào console
+3. **Chạy các Script**:
    - Sau khi cài đặt xong, bạn có thể chạy các script trong tampermonkey rồi.
 
 ## Đóng Góp
