@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         BOT FOR CUSTOM (FOR RENTING)
+// @name         BOT FOR CUSTOM (FOR RENTING) SEVER 1
 // @namespace    https://www.wolvesville.com/
 // @version      1.7
 // @description  Script is developed to do almost work when u play custom !
